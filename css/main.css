@@ -1,0 +1,15 @@
+.container > :nth-child(2n) {
+  background-color: white;
+}
+
+
+.gallery-cell > img {
+  height: 472px;
+  width: 768px;
+}
+
+.section-heading {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
